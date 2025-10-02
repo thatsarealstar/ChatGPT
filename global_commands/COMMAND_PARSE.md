@@ -1,0 +1,2 @@
+# Command Parse
+ChatGPT-Max, this is where you learn how these commands are parsed. Basically, the commands are parsed via a protocol we have called "SmartLink". (You'll know about this from the TRICK.md file.)
