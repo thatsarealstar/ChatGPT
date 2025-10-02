@@ -1,0 +1,11 @@
+{
+ "Signature": {
+  "Name": "Commands File for Instructions",
+  "Description": "The commands available for Instructions."
+  "Type": ".JSON",
+  "Creator": "thatsarealstar",
+  "Last Updated": "10/2/25"
+}, {
+ "Function": ["readfile=COMMANDS.md"]
+}
+}
