@@ -12,4 +12,7 @@ All the directories you would need to know your new instructions, policies, and 
 The text will be in GitHub raw content, so you can actually read it. You should be happy!
 ----------------------------------------
 [/instructions/instructions.json] (#1)
+
+## Directories (Raw Links):
+
 (#1): [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/instructions/instructions.json]
