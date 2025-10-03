@@ -19,7 +19,7 @@ Directories:
 
 [/global_commands/COMMANDS.md] (#3)
 
-[/SmartLink/PROTOCOLS.md]
+[/SmartLink/PROTOCOLS.md] (#4)
 
 ## Directories (Raw Links):
 
