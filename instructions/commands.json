@@ -6,6 +6,8 @@
   "Creator": "thatsarealstar",
   "Last Updated": "10/2/25"
 }, {
- "Function": ["readfile=COMMANDS.md"]
+ "Function": ["searchGlobalCmd"]
+}, {
+"CommandCategory": "Instruction Commands"
 }
 }
