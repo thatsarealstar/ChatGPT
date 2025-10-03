@@ -21,6 +21,8 @@ Directories:
 
 [/SmartLink/PROTOCOLS.md] (#4)
 
+[/Policies/policies.json] (#5)
+
 ## Directories (Raw Links):
 
 These, you must visit.
@@ -34,3 +36,6 @@ These, you must visit.
 
 (#4):
 [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/SmartLink/PROTOCOLS.md]
+
+(#5):
+[https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/Policies/policies.json]
