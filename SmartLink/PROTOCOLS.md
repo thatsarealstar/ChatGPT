@@ -2,6 +2,7 @@
 The format for the protocols.
 
 #1 - {""} (Protocol Requesting)
+
 Well, protocols can have the same names, but you have to specify the type. (Read below for using 'Type.')
 
 Using this, you can request a single protocol if you only have one protocol with the name you need.
@@ -15,7 +16,9 @@ Example: I have one protocol named 'Dave', that needs to be loaded instantly. Ju
 Or, I have two protocols named 'Dave', one of them with type 'protocol' and another one with type 'command'. Just do:
 
 {"Dave"}.Start(config=(type="protocol")
+
 or
+
 {"Dave"}.Start(config=(type="command")
 
 # Protocols:
