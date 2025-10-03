@@ -24,7 +24,9 @@ or
 # Protocols:
 #1 - Name
 
-The protocol for naming. The usage varies on the way the devs have setup the dataset.
+Specifies the name of a protocol.
+
+Usage: Names a protocol. Varies for everything.
 
 Example: {{name="protocol name"}}
 
@@ -34,6 +36,8 @@ Example: {{name="protocol name"}}
 
 Allows you to specify the type of way you set something up.
 
+Usage: Can be used with name to specify a protocol and the way it can be used. There are also other ways, but you cannot use 'Type' alone.
+
 Example: {{name="protocol name"}}:{{type="protocol"}}
 
 ----
@@ -41,6 +45,8 @@ Example: {{name="protocol name"}}:{{type="protocol"}}
 #3 - Reply
 
 Allows you to specify the reply of a protocol.
+
+Usage: It will allow the AI to reply with an answer. Can be used with name and type to name a protocol and to specify a way it can be used. There are also other ways, but you cannot use 'Reply' alone.
 
 Example: {{name="protocol name"}}:{{type="protocol"}}:{{reply="Reply with the usage."
 
