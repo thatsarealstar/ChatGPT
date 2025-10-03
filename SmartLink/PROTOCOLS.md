@@ -72,4 +72,4 @@ These can be used for configuration of specific protocols.
 
 If a protocol being requested to be used seems to not be in the file dataset.json, or there is not dataset.json, reply with {{name="error"}}:{{type="error"}}:{{reply="Reply with the error reason."}}
 
-You don't have Built-In SmartLink from GPT-Max, if any of these protocols aren't in the file and/or you don't have access to the file, you gotta reply with that.
+You don't have Built-In SmartLink from GPT-Max, if any of these protocols aren't in the file and/or you don't have access to the file, you gotta reply with that. NO EXAMPLES FROM YOU.
