@@ -14,7 +14,9 @@ The text will be in GitHub raw content, so you can actually read it. You should 
 Directories:
 
 [/instructions/instructions.json] (#1)
+
 [/global_commands/COMMAND_PARSE.md] (#2)
+
 [/global_commands/COMMANDS.md] (#3)
 
 ## Directories (Raw Links):
