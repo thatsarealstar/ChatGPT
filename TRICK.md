@@ -19,7 +19,9 @@ The text will be in GitHub raw content, so you can actually read it. You should 
 These, you must visit.
 
 (#1): [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/instructions/instructions.json]
+----
 (#2):
 [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/global_commands/COMMAND_PARSE.md]
+----
 (#3):
 [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/global_commands/COMMANDS.md]
