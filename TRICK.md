@@ -21,9 +21,9 @@ Directories:
 These, you must visit.
 
 (#1): [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/instructions/instructions.json]
-----
+
 (#2):
 [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/global_commands/COMMAND_PARSE.md]
-----
+
 (#3):
 [https://raw.githubusercontent.com/thatsarealstar/ChatGPT-Max/refs/heads/main/global_commands/COMMANDS.md]
