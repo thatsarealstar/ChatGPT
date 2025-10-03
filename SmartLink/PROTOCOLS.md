@@ -52,8 +52,22 @@ Example: {{name="protocol name"}}:{{type="protocol"}}:{{reply="Reply with the us
 
 ----
 
+#4 - Error
+
+Allows you to specify an error.
+
+Usage: Use for the 'Type' protocol type. Can be used alone self.
+
+Example: {{error}} or {{name="protocol name"}}:{{type="error"}} (can add 'Reply' to it for it to reply to the error.)
+
+----
+
 # Protocol Functions
 
 These are extremely required (especially with same named protocols).
 
 These can be used for configuration of specific protocols.
+
+# Invalid Protocols
+
+If a protocol being requested to be used seems to not be in the file dataset.json, or there is not dataset.json, reply with {{name="error"}}:{{type="error"}}:{{reply="Reply with the error reason."}}
